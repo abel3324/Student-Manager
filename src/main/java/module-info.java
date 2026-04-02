@@ -3,6 +3,6 @@ module me.serbob.studentmanagerabellab5 {
     requires javafx.fxml;
 
 
-    opens me.serbob.studentmanagerabellab5 to javafx.fxml;
-    exports me.serbob.studentmanagerabellab5;
+    opens loose.oose.fis.lab.student.manager to javafx.fxml;
+    exports loose.oose.fis.lab.student.manager;
 }
