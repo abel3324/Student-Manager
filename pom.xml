@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                me.serbob.studentmanagerabellab5/me.serbob.studentmanagerabellab5.HelloApplication
+                                me.serbob.studentmanagerabellab5/loose.oose.fis.lab.student.manager.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
