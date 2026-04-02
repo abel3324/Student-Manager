@@ -34,4 +34,5 @@ public class Student {
     public int hashCode() {
         return Objects.hash(firstName, lastName, age, meanGrade);
     }
+
 }
